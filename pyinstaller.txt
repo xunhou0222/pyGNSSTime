@@ -1,0 +1,1 @@
+pyinstaller -w -D -i ".\resource\pyGNSSTime.ico" --name "pyGNSSTime" main.py
